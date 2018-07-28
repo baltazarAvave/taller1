@@ -1,0 +1,4 @@
+requerimientos:
+1- la app tendra una tabla de usuarios
+2- la app tendra la posibilidad de hacer login con cuenta de google
+3- la app tendra manejo de perfiles
